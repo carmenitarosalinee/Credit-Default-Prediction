@@ -69,6 +69,10 @@ This app includes global interpretability using SHAP summary plots for the XGBoo
 - shap
 - streamlit
 
+## 🔗 Live Demo Dashboard 
+
+👉 [Click here to view the live app on Streamlit Cloud](https://credit-default-prediction-mdyuusc4xishwn5fakpxbq.streamlit.app/)
+
 ## 📬 Contact
 [Linkedin](https://www.linkedin.com/in/carmenita-lamba-6a7555220/)
 
