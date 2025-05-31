@@ -42,10 +42,10 @@ Users can upload a CSV file (`creditcard.csv`) containing credit card transactio
 
 ## 📁 Project Structure
 
-├── - Credit_Default_Prediction.ipynb # Jupiter Notebook
-├── - README.md # Project documentation
-├── - requirements.txt # List of required Python packages
-└── - streamlit_app.py # Main Streamlit app
+├── 📓 Credit_Default_Prediction.ipynb # Jupyter Notebook (exploration, training, evaluation)
+├── 📄 README.md # Project documentation
+├── 📄 requirements.txt # List of required Python packages
+└── 🖥️ streamlit_app.py # Main Streamlit app for deployment
 
 ## 🧪 Dataset
 
